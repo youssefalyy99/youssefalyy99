@@ -7,3 +7,7 @@
 🧩 | I also spend most of the time problem solving on Codeforces.
 
 📂 | Projects Related To CCE Engineering Will Be Uploaded Here <3
+
+## Competitive Programming
+
+⚔️ | Codeforces : https://codeforces.com/profile/youssefalyy_
