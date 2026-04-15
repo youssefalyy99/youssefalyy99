@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 | I'm Youssef, a Computer and Communication Engineering student at Alexandria University.<br>📚 | I am Currently Learning Data Structures And Algorithms.<br>🧩 | I also spend most of the time problem solving on Codeforces.<br>📂 | Projects Related To CCE Engineering Will Be Uploaded Here <3
+
 
 
 ## 🌐 Socials:
