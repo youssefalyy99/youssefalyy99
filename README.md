@@ -1,5 +1,8 @@
 # 💫 About Me:
-🎓 Hello, I'm Youssef a Computer & Communications Engineering Student @ Alexandria University<br>📊 Passionate about data and always learning new things.<br>🐍 Exploring data analysis, visualization, and Python development.<br>🤖 On a journey toward machine learning and building meaningful insights from data.<br><br>
+🎓 Hello, I'm Youssef a Computer & Communications Engineering Student @ Alexandria University<br>
+📊 Passionate about data Interpretation and always learning new things.<br>
+🐍 Exploring data analysis, visualization, and Python development.<br>
+🤖 On a journey toward machine learning and building meaningful insights from data.<br><br>
 
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
