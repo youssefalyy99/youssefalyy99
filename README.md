@@ -10,6 +10,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/youssefalyy99/assets/main/Project1Gif.gif" alt="Project 1" width="600">
 </p>
+<p align="center">
+  <img src="https://github.com/youssefalyy99/assets/blob/main/Project2Gif.gif?raw=true" alt="Project 2" width="600">
+</p>
 
 ## 💻 Tech Stack:
 
