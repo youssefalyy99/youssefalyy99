@@ -8,9 +8,8 @@
 
 ## 💻 Project Preview:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/youssefalyy/assets/main/Project1Gif.gif" width="600">
+  <img src="https://raw.githubusercontent.com/youssefalyy99/assets/main/Project1Gif.gif" width="600">
 </p>
-
 
 ## 💻 Tech Stack:
 
