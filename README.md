@@ -7,12 +7,10 @@
 - enjoy transforming complex, messy datasets into clear stories and actionable insights.<br>
 
 ## 💻 Projects Preview:
-<p align="center">
-  <img src="https://raw.githubusercontent.com/youssefalyy99/assets/main/Project1Gif.gif" alt="Project 1" width="600">
-</p>
-<p align="center">
-  <img src="https://github.com/youssefalyy99/assets/blob/main/Project2Gif.gif?raw=true" alt="Project 2" width="600">
-</p>
+<div align="center">
+  <img src="https://github.com/youssefalyy99/assets/blob/main/Project1Gif.gif?raw=true" width="48%">
+  <img src="https://github.com/youssefalyy99/assets/blob/main/Project2Gif.gif?raw=true" width="48%">
+</div>
 
 ## 💻 Tech Stack:
 
