@@ -6,7 +6,7 @@
 - On a journey toward data analysis and building meaningful insights from data.<br>
 - enjoy transforming complex, messy datasets into clear stories and actionable insights.<br>
 
-## 💻 Projects Preview:
+## 🛠️ Projects Preview:
 
 <div align="center">
   <img src="https://github.com/youssefalyy99/assets/blob/main/Project1Gif.gif?raw=true" width="48%" style="border-radius: 15px;">
