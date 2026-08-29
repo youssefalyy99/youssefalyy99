@@ -15,6 +15,8 @@
     <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="NumPy" title="NumPy"/></code>
     <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" title="Pandas"/></code>
 </div>
+
+
 ## 🍃 Currently Learning:
 - Data Analysis, Pandas, and NumPy for working with and understanding data 📊  
 - Data Visualization with Python (Matplotlib) and exploring Machine Learning fundamentals 🤖  
