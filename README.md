@@ -7,7 +7,7 @@
 
 ## 💻 Tech Stack:
 
-![c](https://www.readmecodegen.com/api/social-icon?name=c&size=96&bg=%23000000&color=%233b82f6)
+![c](https://www.readmecodegen.com/api/social-icon?name=c&bg=%23ffffff&color=%233b82f6)
 
 ## 🍃 Currently Learning:
 - Data Analysis, Pandas, and NumPy for working with and understanding data 📊  
