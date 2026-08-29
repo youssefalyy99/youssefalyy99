@@ -1,30 +1,19 @@
 # 💫 About Me:
-🎓 Hello, I'm Youssef a Computer & Communications Engineering Student @ Alexandria University<br>
-📊 Passionate about data Interpretation and always learning new things.<br>
-🐍 Exploring data analysis, visualization, and Python development.<br>
-🤖 On a journey toward machine learning and building meaningful insights from data.<br>
-👀 enjoy transforming complex, messy datasets into clear stories and actionable insights.<br>
+
+- Hello, I'm Youssef a Computer & Communications Engineering Student @ Alexandria University<br>
+- Passionate about data Interpretation and always learning new things.<br>
+- Exploring data analysis, visualization, and Python development.<br>
+- On a journey toward data analysis and building meaningful insights from data.<br>
+- enjoy transforming complex, messy datasets into clear stories and actionable insights.<br>
 
 ## 💻 Tech Stack:
 
-<div>
-    <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
-    <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" title="Pandas"/></code>
-    <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="NumPy" title="NumPy"/></code>
-    <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/matplotlib.png" alt="Matplotlib" title="Matplotlib"/></code>
-    <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/excel.png" alt="Excel" title="Excel"/></code>
-    <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/powerbi.png" alt="Power BI" title="Power BI"/></code>
-    <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sql.png" alt="SQL" title="SQL"/></code>
-    <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlserver.png" alt="SQL Server" title="SQL Server"/></code>
-    <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/></code>
-    <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></code>
-    <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" alt="C#" title="C#"/></code>
-</div>
-
 
 ## 🍃 Currently Learning:
-- Data Analysis, Pandas, and NumPy for working with and understanding data 📊  
-- Data Visualization with Python (Matplotlib) and exploring Machine Learning fundamentals 🤖  
+
+- NTI Data Analysis Summer Training - Hands-On Projects & Practical Applications.
+- Consistently practicing and strengthening SQL skills through hands-on exercises on DataCamp.
+- Consistently building end-to-end data analysis projects, applying analytical tools and techniques to real-world datasets.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/youssef.aly.3000)
