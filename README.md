@@ -15,15 +15,17 @@
 
 ## 💻 Tech Stack:
 
-<img src="https://raw.githubusercontent.com/youssefalyy99/youssefalyy99/main/ExcelIcon.png" width="60" height="60">
-<img src="https://raw.githubusercontent.com/youssefalyy99/youssefalyy99/main/PowerBIIcon.png" width="60" height="60">
-<img src="https://raw.githubusercontent.com/youssefalyy99/youssefalyy99/main/Jupyter.png" width="60" height="60">
-<img src="https://raw.githubusercontent.com/youssefalyy99/youssefalyy99/main/MatPlotLibIcon.png" width="60" height="60">
-<img src="https://raw.githubusercontent.com/youssefalyy99/youssefalyy99/main/PandasIconFix.png" width="60" height="60">
-<img src="https://raw.githubusercontent.com/youssefalyy99/youssefalyy99/main/PythonIcon.png" width="60" height="60">
-<img src="https://raw.githubusercontent.com/youssefalyy99/youssefalyy99/main/SQLIcon.png" width="60" height="60">
-<img src="https://raw.githubusercontent.com/youssefalyy99/youssefalyy99/main/SSMS.png" width="60" height="60">
-<img src="https://raw.githubusercontent.com/youssefalyy99/youssefalyy99/main/VScode.png" width="60" height="60">
+<div>
+  <img src="https://raw.githubusercontent.com/youssefalyy99/youssefalyy99/main/ExcelIcon.png" width="60" height="60">
+  <img src="https://raw.githubusercontent.com/youssefalyy99/youssefalyy99/main/PowerBIIcon.png" width="60" height="60">
+  <img src="https://raw.githubusercontent.com/youssefalyy99/youssefalyy99/main/Jupyter.png" width="60" height="60">
+  <img src="https://raw.githubusercontent.com/youssefalyy99/youssefalyy99/main/MatPlotLibIcon.png" width="60" height="60">
+  <img src="https://raw.githubusercontent.com/youssefalyy99/youssefalyy99/main/PandasIconFix.png" width="60" height="60">
+  <img src="https://raw.githubusercontent.com/youssefalyy99/youssefalyy99/main/PythonIcon.png" width="60" height="60">
+  <img src="https://raw.githubusercontent.com/youssefalyy99/youssefalyy99/main/SQLIcon.png" width="60" height="60">
+  <img src="https://raw.githubusercontent.com/youssefalyy99/youssefalyy99/main/SSMS.png" width="60" height="60">
+  <img src="https://raw.githubusercontent.com/youssefalyy99/youssefalyy99/main/VScode.png" width="60" height="60">
+</div>
 
 
 ## 🍃 Currently Learning:
