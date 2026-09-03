@@ -10,7 +10,7 @@
 - On a journey toward data analysis and building meaningful insights from data.
 - enjoy transforming complex, messy datasets into clear stories and actionable insights. that is the text
 
-- <table>
+<table>
   <tr>
     <td width="70%">
       
