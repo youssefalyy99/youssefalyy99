@@ -1,8 +1,10 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/youssefalyy99/youssefalyy99/main/sdg.png" width="100%">
   <hr>
-  <img src="https://raw.githubusercontent.com/youssefalyy99/youssefalyy99/main/text1.gif?raw=ture" width="80%", align = "center">
-</p>
+  <div align = "center">
+  <img src="https://raw.githubusercontent.com/youssefalyy99/youssefalyy99/main/text1.gif?raw=ture" width="80%">
+  </div>
+  </p>
 
 # 💫 About Me:
       
