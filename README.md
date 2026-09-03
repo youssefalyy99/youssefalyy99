@@ -15,9 +15,8 @@
 
 ## 💻 Tech Stack:
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/youssefalyy99/youssefalyy99/main/KeyTest.png" width="60" height="60">
-</p>
+<img src="https://raw.githubusercontent.com/youssefalyy99/youssefalyy99/main/ExcelIcon.png" width="60" height="60">
+
 
 ## 🍃 Currently Learning:
 
