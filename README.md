@@ -10,7 +10,7 @@
 
 <div align="center">
   <img src="https://github.com/youssefalyy99/youssefalyy99/blob/main/Project1Gif.gif?raw=true" width="48%" style="border-radius: 15px;">
-  <img src="https://github.com/youssefalyy99/assets/blob/main/Project2Gif.gif?raw=true" width="48%" style="border-radius: 15px;">
+  <img src="https://github.com/youssefalyy99/youssefalyy99/blob/main/Project2Gif.gif?raw=true" width="48%" style="border-radius: 15px;">
 </div>
 
 ## 💻 Tech Stack:
