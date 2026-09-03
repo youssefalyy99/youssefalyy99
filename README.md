@@ -9,14 +9,14 @@
 ## 🛠️ Projects Preview:
 
 <div align="center">
-  <img src="https://github.com/youssefalyy99/youssefalyy99/blob/main/Project1Gif.gif?raw=true" width="60%" style="border-radius: 15px;">
-  <img src="https://github.com/youssefalyy99/youssefalyy99/blob/main/Project2Gif.gif?raw=true" width="60%" style="border-radius: 15px;">
+  <img src="https://github.com/youssefalyy99/youssefalyy99/blob/main/Project1Gif.gif?raw=true" width="48%" style="border-radius: 15px;">
+  <img src="https://github.com/youssefalyy99/youssefalyy99/blob/main/Project2Gif.gif?raw=true" width="48%" style="border-radius: 15px;">
 </div>
 
 ## 💻 Tech Stack:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/youssefalyy99/youssefalyy99/main/KeyTest.png" width="48" height="48">
+  <img src="https://raw.githubusercontent.com/youssefalyy99/youssefalyy99/main/KeyTest.png" width="60" height="60">
 </p>
 
 ## 🍃 Currently Learning:
