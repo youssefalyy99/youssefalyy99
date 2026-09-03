@@ -10,6 +10,27 @@
 - On a journey toward data analysis and building meaningful insights from data.
 - enjoy transforming complex, messy datasets into clear stories and actionable insights. that is the text
 
+- <table>
+  <tr>
+    <td width="70%">
+      
+  Hello, I'm Youssef a Computer & Communications Engineering Student @ Alexandria University
+      
+  Passionate about data Interpretation and always learning new things.
+      
+  Exploring data analysis, visualization, and Python development.
+      
+  On a journey toward data analysis and building meaningful insights from data.
+  
+  enjoy transforming complex, messy datasets into clear stories and actionable insights.
+      
+    </td>
+    <td width="30%">
+      <img src="https://raw.githubusercontent.com/youssefalyy99/youssefalyy99/main/ExcelIcon.png" width="200">
+    </td>
+  </tr>
+</table>
+
 ## 🛠️ Projects Preview:
 
 <div align="center">
