@@ -26,14 +26,6 @@
   <img src="https://raw.githubusercontent.com/youssefalyy99/youssefalyy99/main/SSMS.png" width="60" height="60">
   <img src="https://raw.githubusercontent.com/youssefalyy99/youssefalyy99/main/VScode.png" width="60" height="60">
   <img src="https://raw.githubusercontent.com/youssefalyy99/youssefalyy99/main/NumPyICon.png" width="60" height="60">
-  <img src="https://raw.githubusercontent.com/youssefalyy99/youssefalyy99/main/NumPyICon.png" width="60" height="60">
-  <img src="https://raw.githubusercontent.com/youssefalyy99/youssefalyy99/main/NumPyICon.png" width="60" height="60">
-  <img src="https://raw.githubusercontent.com/youssefalyy99/youssefalyy99/main/NumPyICon.png" width="60" height="60">
-  <img src="https://raw.githubusercontent.com/youssefalyy99/youssefalyy99/main/NumPyICon.png" width="60" height="60">
-  <img src="https://raw.githubusercontent.com/youssefalyy99/youssefalyy99/main/NumPyICon.png" width="60" height="60">
-  <img src="https://raw.githubusercontent.com/youssefalyy99/youssefalyy99/main/NumPyICon.png" width="60" height="60">
-  <img src="https://raw.githubusercontent.com/youssefalyy99/youssefalyy99/main/NumPyICon.png" width="60" height="60">
-  <img src="https://raw.githubusercontent.com/youssefalyy99/youssefalyy99/main/NumPyICon.png" width="60" height="60">
 </div>
 
 
