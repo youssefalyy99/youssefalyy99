@@ -8,11 +8,12 @@
 
 # 💫 About Me:
       
-- Hello, I'm Youssef a Computer & Communications Engineering Student @ Alexandria University
-- Passionate about data Interpretation and always learning new things.
-- Exploring data analysis, visualization, and Python development.
-- On a journey toward data analysis and building meaningful insights from data.
-- enjoy transforming complex, messy datasets into clear stories and actionable insights. that is the text
+- Hello, I'm **Youssef**, a Computer & Communications Engineering Student @ Alexandria University.
+- **Data Analyst** with strong hands-on experience in **Python, SQL, Power BI, and data visualization**.
+- Experienced in transforming **complex and messy datasets** into structured, meaningful insights.
+- Skilled in **data cleaning, exploratory data analysis, statistical analysis, SQL querying, and interactive dashboard development**.
+- Focused on turning data into **clear business insights and actionable recommendations**.
+
 
 ## 🛠️ Projects Preview:
 
