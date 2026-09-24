@@ -47,7 +47,7 @@
 - Consistently practicing and strengthening SQL skills through hands-on exercises on DataCamp.
 - Consistently building end-to-end data analysis projects, applying analytical tools and techniques to real-world datasets.
 
-## 🌐 Socials:
+## 🌐 Let's Connect:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/youssef.aly.3000)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/youssefalyy_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/youssef-aly-11216a3b8) 
