@@ -41,11 +41,12 @@
 </div>
 
 
-## 🍃 Currently Learning:
+## 🍃 Currently Working On:
 
-- NTI Data Analysis Summer Training - Hands-On Projects & Practical Applications.
-- Consistently practicing and strengthening SQL skills through hands-on exercises on DataCamp.
-- Consistently building end-to-end data analysis projects, applying analytical tools and techniques to real-world datasets.
+- Building advanced end-to-end **data analysis projects** using Python, SQL, and Power BI.
+- Working with **multi-table, real-world datasets**, focusing on data cleaning, exploratory analysis, and business-driven insights.
+- Strengthening my portfolio through **production-quality analysis, documentation, and data visualization**.
+- Preparing to transition toward **Data Engineering**, building on my foundation in data analysis, SQL, and Python.
 
 ## 🌐 Let's Connect:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/youssef.aly.3000)
